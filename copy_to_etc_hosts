@@ -1,0 +1,16 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+10.224.178.38 TLV-SRV-DEEP-05
+10.224.178.170 TLV-SRV-DEEP-06
+10.224.179.30 TLV-SRV-DEEP-07
+10.224.178.154 TLV-SRV-DEEP-08
+10.224.190.208 TLV-SRV-DEEP-04
+10.224.190.207 TLV-SRV-DEEP-03
+10.224.190.204 mlresearch-01
+10.224.190.203 mlresearch-02

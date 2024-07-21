@@ -1,0 +1,12 @@
+{
+  "shell_port": 40949,
+  "iopub_port": 42563,
+  "stdin_port": 41227,
+  "control_port": 44789,
+  "hb_port": 41303,
+  "ip": "ez_krylovws",
+  "key": "d9a7fb92-5ef2d70d2236582681a33541",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": ""
+}

@@ -1,0 +1,1 @@
+--vim.cmd(':TSInstall markdown markdown_inline<CR>')
